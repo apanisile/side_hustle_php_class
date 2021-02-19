@@ -27,3 +27,5 @@ while($number <= $limit){
     echo(generate_airtime_pin(14));
     echo (" <br>");
 }
+
+?>
