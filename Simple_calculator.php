@@ -7,7 +7,7 @@
 <body>
 
     <form method="POST">
-    <h1>Calculator</h1>
+    <h1>Simple Calculator</h1>
     
      <p>Enter first number:</p>
         <input type="text" name="cal1">
